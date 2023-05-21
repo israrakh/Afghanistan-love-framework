@@ -13,6 +13,7 @@ public class Nangarhar {
 		cities.add("Shenwari");
 		cities.add("Sorkh road");
 		cities.add("Khogyanii");
+		cities.add("Shewa");
 		
 		System.out.println("Number of cities: " + cities.size());
 		for (int i = 0; i < cities.size(); i++) {
